@@ -35,6 +35,8 @@ Predicting NYC condominium **Full Market Value** using building characteristics 
 
 ## ⚠️ Data Leakage Handling
 
+**Data Source:** [NYC Condo Dataset](<https://www.openml.org/search?type=data&status=active&id=43361>)
+
 Early versions included:
 
 - `Net_Operating_Income`
